@@ -1,6 +1,15 @@
-# 💫 About Me:
-I,m currently working on data analytics and AI&ML
+ 💫 Hi 👋, I'm ANKIT SAINI 
+Email Me 👉 ✉️ **as3126061@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** Airplane ride tracking 
+- 🌱 **I’m currently learning:** Data analytics and AI&ML
+- 📫 **How to reach me:** as3126061@gmail.com
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.linkedin.com/in/ankit-saini-a061a1358) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Codewithsyco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as3126061@gmail.com) 
