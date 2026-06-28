@@ -4,7 +4,7 @@ Email Me 👉 ✉️ **as3126061@gmail.com** For Collaboration/Project or Anythi
 - 🔭 **I’m currently working on:** Airplane ride tracking 
 - 🌱 **I’m currently learning:** Data analytics and AI&ML
 - 📫 **How to reach me:** as3126061@gmail.com
-
+<img src="https://komarev.com/ghpvc/?username=john123&label=Profile%20Views&color=blue&style=for-the-badge" />
 <!-- Snake Game Repo View -->
 
 <div align="center">
